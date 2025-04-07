@@ -39,8 +39,8 @@ nifty50-auto-trader/
 
 ## 🧰 Installation
 ```bash
-git clone https://github.com/Debabrata-ok/nifty50-auto-trader.git
-cd nifty50-auto-trader
+git clone (https://github.com/Debabrata-ok/nifty-auto-trader-testing)
+cd nifty50-auto-trader-testing
 python3 -m venv env
 source env/bin/activate
 pip install -r requirements.txt
